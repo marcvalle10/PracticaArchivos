@@ -1,2 +1,6 @@
 # PracticaArchivos
 Son dos ejercicios de java para practicar con el uso de archivos, los cuales son los siguientes: 
+
+El primero es para realizar un histograma al leer el archivo "divina_comedia_sp" y cuenta la longitud en caracteres de cada una de las palabras contenidas en un archivo de texto. Ignorar cifras numéricas y considerar exclusivamente palabras desde 2 hasta un máximo de 10 caracteres de longitud. El programa genera el histograma mediante un Jframe y alli se puede visualisar el grafico, y para apreciar mejor la cantidad de la frecuencia de cada palabra solo se tiene que poner el cursor sobre la barra de cada longitud de caracteres.
+
+Y el segundo programa realizara una multiplicacion de matrices para los archivos a.mat y b.mat son archivos binarios que contienen los datos matrices con valores numéricos reales. El primer byte en el archivo indica el número de renglones en la matriz. El segundo byte indica el número de columnas en la matriz. De dicha multiplicacion se debe almacenar el resultado en un archivo c.mat que se creara al momento, con el mismo formato de los archivos de entrada. Y ademas le agrege al programa que leyera y mostara en terminal el contenido dentro del archivo "c.mat" que se crea.
